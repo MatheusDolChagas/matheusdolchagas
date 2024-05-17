@@ -2,11 +2,11 @@
 
 ### Sobre Mim
 
-Meu nome é Matheus Chagas e sou um Dev. Web Full-Stack. Sou apaixonado por programação e qualquer outra coisa que envolva lógica e por isso, estou sempre buscando aprender coisas novas.
+Meu nome é Matheus Chagas e sou um Eng. Software FullStack. Sou apaixonado por programação e qualquer outra coisa que envolva lógica e por isso, estou sempre buscando aprender coisas novas.
 
-- 👨‍💻 Tenho conhecimentos em PHP, JavaScript, Axios, GIT, HTML e CSS.
-- 🌱 Atualmente, estou aprendendo SvelteKit, Svelte, GoLang, React.js e Tailwind.
-- 💼 Trabalho como Dev Web Full-Stack na Aglets Soluções.
+- 👨‍💻 Tenho conhecimentos em Svelte, TailwindCSS, TypeScript,PHP, JavaScript, Axios, GIT, HTML e CSS.
+- 🌱 Atualmente, estou aprendendo  GoLang, React.js, Tailwind e DialogFlow CX.
+- 💼 Trabalho como Engenheiro de Software Junior na Faculdade Realiza.
 - 📫 Como me encontrar: matheushenriquedolchagas@gmail.com
   
 
