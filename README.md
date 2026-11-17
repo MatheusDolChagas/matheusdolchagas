@@ -1,33 +1,32 @@
-### Olá, visitante!👋
+# Matheus Chagas
 
-### Sobre Mim
+**Software Engineer · Full Stack**
 
-Meu nome é Matheus Chagas e sou um Eng. Software FullStack. Sou apaixonado por programação e qualquer outra coisa que envolva lógica e por isso, estou sempre buscando aprender coisas novas.
+Desenvolvo software de ponta a ponta, da definição da arquitetura à entrega em produção. Tenho trabalhado principalmente com TypeScript, Node.js, React e Go, construindo aplicações web, APIs, integrações e automações.
 
-- 👨‍💻 Tenho conhecimentos em Svelte, TailwindCSS, TypeScript,PHP, Axios, GIT, HTML e CSS.
-- 🌱 Atualmente, estou aprendendo  GoLang, React.js, Tailwind e DialogFlow CX.
-- 💼 Trabalho como Engenheiro de Software Junior na Faculdade Realiza.
-- 📫 Como me encontrar: matheushenriquedolchagas@gmail.com
-  
+Gosto de entender o problema antes de pensar na tecnologia. Meu foco está em construir soluções que façam sentido para quem usa, sejam simples de manter e consigam evoluir sem virar um problema maior depois.
 
-### Habilidades
-<div style="display: inline_block"><br>
-  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="My-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-</div>     
+### O que tenho feito
 
-##
-  
-  <div> 
-  <a href="https://www.linkedin.com/in/matheushenriquedolchagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- Desenvolvimento e evolução de sistemas financeiros, incluindo faturamento, pagamentos e conciliação.
+- Construção de APIs, integrações com serviços externos e automações de processos.
+- Modernização de sistemas legados e desenvolvimento de interfaces web.
+- Participação em decisões de arquitetura, melhorias de performance e organização de processos de desenvolvimento.
 
+### Stack
 
+**Backend:** TypeScript, Node.js, Go, PHP, Laravel, Python, C#
+
+**Frontend:** React, Next.js, Svelte, Tailwind CSS
+
+**Dados:** PostgreSQL, MySQL, SQL Server, Redis
+
+**Infraestrutura:** AWS, Docker, Git, CI/CD
+
+### Além do código
+
+Tenho interesse especial em arquitetura de software, sistemas distribuídos e desenvolvimento de produtos. Também gosto de tirar ideias do papel e experimentar diferentes abordagens para resolver problemas.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/matheushenriquedolchagas/) · [Email](mailto:matheushenriquedolchagas@gmail.com)
